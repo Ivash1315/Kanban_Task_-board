@@ -1,4 +1,4 @@
-# Kanban_Task_-board
+
 ### Task Board
 ![alt text](./assets/images/task_board_pgn.png)
 
