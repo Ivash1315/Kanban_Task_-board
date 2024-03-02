@@ -1,6 +1,6 @@
-
+# Kanban_Task_-board
 ### Task Board
-![alt text](assets/images/image.png)
+![alt text](./assets/images/task_board_pgn.png)
 
 This is a simple Kanban board for Task Management.
 
